@@ -1,2 +1,2 @@
-# speaker-independent-emotional-voice-conversion
-Website of the paper "Converting anyone's emotion: towards speaker-independent emotional voice conversion".
+# SPeech samples for Vocal emotion conversion
+Speech samples of the thesis related to vocal emotion conversion
